@@ -6,7 +6,11 @@ StepperDriver
 =============
 
 A4988, DRV8825, DRV8834, DRV8880 and generic two-pin stepper motor driver library.
+
+TEST
+
 Features:
+
    - Constant speed mode (low rpms)
    - Linear (accelerated) speed mode, with separate acceleration and deceleration settings.
    - Non-blocking mode (yields back to caller after each pulse)
